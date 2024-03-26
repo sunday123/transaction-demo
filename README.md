@@ -1,4 +1,4 @@
-# 测试seata全局事务@GlobalTransactional
+# 测试seata全局事务@GlobalTransactional多个接口使用
 
 被问道A调用B，B调用C，能不能这三个接口都有注释@GlobalTransactional
 比如A调用B，B调用C，写一个注释@GlobalTransactional，就可以实现全局事务。
