@@ -8,7 +8,8 @@
 		<module>a-service</module>
 		<module>b-service</module>
 		<module>c-service</module>
-	</modules>
+        <module>xxl-job-service</module>
+    </modules>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
