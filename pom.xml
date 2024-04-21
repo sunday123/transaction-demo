@@ -9,6 +9,8 @@
 		<module>b-service</module>
 		<module>c-service</module>
         <module>xxl-job-service</module>
+		<module>tcc-a</module>
+		<module>tcc-b</module>
     </modules>
 
 	<parent>
